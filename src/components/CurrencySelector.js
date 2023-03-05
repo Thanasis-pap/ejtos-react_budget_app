@@ -31,20 +31,3 @@ const CurrencySelector = () => {
 };
 
 export default CurrencySelector;
-
-        //     <div className="alert alert-secondary">
-        //     {/* <label for="currency-sel">Currency ()</label> */}
-        //     <select name="currency-sel" id="currency-sel">
-        //         <option value="dollar">$ Dollar</option>
-        //         <option value="pound">£ Pound</option>
-        //         <option value="euro">€ Euro</option>
-        //         <option value="rupee">₹ Ruppee</option>
-        //     </select>
-        // </div>
-
-        // <li><a className="dropdown-item" data-currency="dollar">$ Dollar</a></li>
-        //             <li><a className="dropdown-item" data-currency="pound">£ Pound</a></li>
-        //             <li><a className="dropdown-item" data-currency="euro">€ Euro</a></li>
-        //             <li><a className="dropdown-item" data-currency="ruppee">₹ Ruppee</a></li>
-
-        // onClick={(event) => { changeCurrency(event.target.dataset.currency) }}
